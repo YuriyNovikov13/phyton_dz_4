@@ -1,7 +1,6 @@
 # Задайте натуральное число N. Напишите программу, 
 # которая составит список простых множителей числа N.
-from os import system
-system("cls")
+
 
 def get_number(input_string:str)->int:
     '''
